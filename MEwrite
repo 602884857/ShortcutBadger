@@ -1,0 +1,1 @@
+shortcutbadge build gradle  apply from: './mvn-push.gradle' 注释掉
